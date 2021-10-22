@@ -1,4 +1,13 @@
-# Hydrologen linkboekje
+# Hydrologen Linkboekje 
+  - [Oppervlaktewater](#oppervlaktewater)
+  - [Grondwater](#grondwater)
+  - [Meteorologie](#meteorologie)
+  - [Beleid](#beleid)
+  - [Ondergrond](#ondergrond)
+  - [Droogte](#droogte)
+  - [Topo](#topo)
+  - [APIs](#apis)
+  - [Overigen](#overigen)
 
 ## Oppervlaktewater
 - [aquacalq](http://aquacalq.nl)
@@ -10,16 +19,16 @@
 - [opnttrekkingsverboden](https://wsbd.maps.arcgis.com/apps/webappviewer/index.html?id=96fed44135a54493bb41d9c4ea6d7463)
 - [peilbesluitkaart](https://wsbd.maps.arcgis.com/apps/webappviewer/index.html?id=d6037ee85e784521be739b8ae5b38f7d)
 - [doorspoelprotocol](https://pilotverblijftijdenwatertemperatuur.brabantsedelta.nl)
-- [vademecum (citrix)](file:///G:/WS_KenA/TG_hydrologie/Literatuur%20en%20achtergronddocumenten/Cultuurtechnisch%20Vadamecum")
-- [hydraulische randvoorwaarden](file:///G:/WS_KenA/TG_hydrologie/Hydraulische%20randvoorwaarden%202021)
+- [vademecum (citrix)](/G:/WS_KenA/TG_hydrologie/Literatuur%20en%20achtergronddocumenten/Cultuurtechnisch%20Vadamecum)
+- [hydraulische randvoorwaarden](/G:/WS_KenA/TG_hydrologie/Hydraulische%20randvoorwaarden%202021)
 
 ## Grondwater
 - [dinoloket](https://www.dinoloket.nl/ondergrondgegevens)
 - [bro](https://www.broloket.nl/ondergrondgegevens)
 - [grondwaterformules](http://www.grondwaterformules.nl)
 - [provinciaal meetnet brabant](https://brabant.lizard.net/viewer/nl/map/topography,assetgroup$be1ef6a,wmslayer$42a9f70/point/@51.5726,4.5775,11/-2Days0Hours+0Days3Hours)
-- [onttrekkingen (citrix)](file:///G:/WS_KenA/Per_persoon/Thomas/data/notebooks/opgave%20grondwateronttrekking/opgave%20grondwateronttrekking.html)
-- [grondwaterstatistieken (citrix)](file:///G:/WS_KenA/Per_persoon/Thomas/data/notebooks/dino/map.html)
+- [onttrekkingen (citrix)](/G:/WS_KenA/Per_persoon/Thomas/data/notebooks/opgave%20grondwateronttrekking/opgave%20grondwateronttrekking.html)
+- [grondwaterstatistieken (citrix)](/G:/WS_KenA/Per_persoon/Thomas/data/notebooks/dino/map.html)
 
 ## Meteorologie
 - [knmi klimatologie](https://www.knmi.nl/nederland-nu/klimatologie)
@@ -53,4 +62,4 @@
 - [spraakwater](https://www.spraakwaterws.nl)
 - [LCMS](https://www.lcms.nl)
 - [geoweb (citrix)](https://geoweb.wsbd.nl/Catalogus/)
-- [vismigratie factsheets (citrix)](file:///G:/WS_KenA/TG_ecologie/Vis/gegevens%20vispasseerbare%20oplossingen/Factsheets%20vispasseerbare%20oplossingen/Versies2014)
+- [vismigratie factsheets (citrix)](/G:/WS_KenA/TG_ecologie/Vis/gegevens%20vispasseerbare%20oplossingen/Factsheets%20vispasseerbare%20oplossingen/Versies2014)
