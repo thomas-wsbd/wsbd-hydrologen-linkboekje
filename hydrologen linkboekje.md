@@ -37,6 +37,8 @@
 
 ## Beleid
 - [brabant keur](https://www.brabantkeur.nl)
+- [beleidsregels](https://lokaleregelgeving.overheid.nl/CVDR358713/6)
+- [keurregels afvoeren hemelwater](https://lokaleregelgeving.overheid.nl/CVDR358707/4)
 - [publicaties wbsd](https://zoek.officielebekendmakingen.nl/resultaten?q=(c.product-area==%22officielepublicaties%22)and((((w.organisatietype==%22waterschap%22)and(dt.creator==%22Waterschap%20Brabantse%20Delta%22))))and(((w.publicatienaam==%22Tractatenblad%22))or((w.publicatienaam==%22Staatsblad%22))or((w.publicatienaam==%22Staatscourant%22))or((w.publicatienaam==%22Gemeenteblad%22))or((w.publicatienaam==%22Provinciaal%20blad%22))or((w.publicatienaam==%22Waterschapsblad%22))or((w.publicatienaam==%22Blad%20gemeenschappelijke%20regeling%22)))&zv=&col=AlleBekendmakingen)
 
 ## Ondergrond
